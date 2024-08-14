@@ -1,0 +1,14 @@
+DES
+Plaintext: 0x123456789abcdef
+Key: 0x133457799bbcdff1
+Ciphertext: 0x12c6c3227931796c
+Decrypted Ciphertext: 0x1601545155638006
+Salsa
+Plaintext: Ana nu mai are mere
+Ciphertext: 7e0da0485adf9f1d
+RSA
+Public key (e, n): (17, 3233)
+Private key (d, n): (2753, 3233)
+Original message: Ana Are Multe Mere
+Encrypted message: 291 2162 2241 1992 291 2340 335 1992 1509 1746 2612 1744 335 1992 1509 335 2340 335 
+Decrypted message: 
